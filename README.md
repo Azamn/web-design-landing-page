@@ -15,7 +15,7 @@ In this project i have created a Web Design Landing Page. And i have learnt a lo
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/web-design-landing-pag.png)
+![Web Site Image](./screenshot/web-design-landing-page.png)
 
 ![Web Site Mobile View Image](./screenshot/web-design-landing-page-mobile.png)
 
